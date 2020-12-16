@@ -1,0 +1,11 @@
+﻿{
+  "Server": {
+    "PublicIp": "4.tcp.ngrok.io",
+    "PublicPort": 14381,
+    "ListenIp": "0.0.0.0",
+    "ListenPort": 22023
+  },
+  "AntiCheat": {
+    "BanIpFromGame": true
+  }
+}
